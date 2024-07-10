@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Engineer</h1> 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> &nbsp;  <h3 align="center">13+ Years Experience in Software Development</h3> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> &nbsp;  13+ Years Experience in Software Development &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codegod2222&label=Profile%20views&color=0e75b6&style=flat" alt="codegod2222" /> </p>
 
