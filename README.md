@@ -12,7 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknaiidu&show_icons=true&locale=en&layout=compact" alt="codegod2222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&locale=en" alt="codegod2222" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknaiidu&" alt="codegod2222" /></p>
-
